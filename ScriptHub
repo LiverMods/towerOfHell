@@ -1,4 +1,6 @@
- wait(0.6)
+ if game.PlaceId == 1962086868 then
+
+wait(0.6)
 
 local Toggle = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
